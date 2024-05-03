@@ -1,0 +1,14 @@
+.container{
+    background-color: #1B1D1F;
+    border-radius: 16px;
+    padding-bottom: 100px;
+}
+.botoes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cards{
+    margin: 0 10%;
+    margin-top: 30px;
+}

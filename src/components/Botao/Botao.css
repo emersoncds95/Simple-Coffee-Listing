@@ -1,0 +1,13 @@
+button{
+    margin: 30px 10px;
+    color: #FEF7EE;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #1B1D1F;
+    padding: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.ativo{
+    background-color: #6F757C !important;
+   }

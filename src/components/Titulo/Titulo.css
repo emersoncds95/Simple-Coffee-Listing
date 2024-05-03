@@ -1,0 +1,23 @@
+.titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.conteudo-titulo{
+    width: 50%;
+    padding-top: 100px;
+    background: url(../../assets/vector.svg);
+    background-repeat: no-repeat;
+    background-position-x: 380px;
+    background-position-y: 40px;
+    text-align: center;
+}
+.conteudo-titulo h1{
+    color: #FEF7EE;
+    font-size: 32px;
+}
+.conteudo-titulo p{
+    color: #6F757C;
+    font-size: 16px;
+    margin-top: 10px;
+}

@@ -1,0 +1,7 @@
+.banner{
+    height: 400px;
+    background-image: url(../../assets/bg-cafe.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
